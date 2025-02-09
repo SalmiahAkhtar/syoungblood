@@ -15,4 +15,4 @@ Here are their photos:
 ![[Pasted image 20250210004001.png]]
 
 
-![[PXL_20220212_020205274~2.jpg]]
+![[Pasted image 20250210005812.png]]
