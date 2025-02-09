@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S Youngblood</title>
-    <link>/</link>
-    <description>Recent content on S Youngblood</description>
+    <title>Pet on S Youngblood</title>
+    <link>/tags/pet/</link>
+    <description>Recent content in Pet on S Youngblood</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/pet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Cats</title>
       <link>/posts/my-cats/</link>
