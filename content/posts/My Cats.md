@@ -12,7 +12,7 @@ I live with two cats. They don't get along. Their names are
 2. Cacao
 
 Here are their photos:
-![[Pasted image 20250210004001.png]]
+![Image Description](/images/Pasted%20image%2020250210004001.png)
 
 
-![[Pasted image 20250210005812.png]]
+![Image Description](/images/Pasted%20image%2020250210005812.png)
