@@ -13,6 +13,11 @@ I live with two cats. They don't get along. Their names are
 
 Here are their photos:
 
+Biscuit
+![Image Description](/images/Pasted%20image%2020250218001833.png)
+
+cacao
+![Image Description](/images/Pasted%20image%2020250218001902.png)
 
 
-![[PXL_20250204_193629643.MP.jpg]]![[20250106_163243.jpg]]
+The problem is they don't get along.
