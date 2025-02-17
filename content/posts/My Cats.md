@@ -1,7 +1,7 @@
 ---
 title: My Cats
 date: 2025-02-09
-draft: true
+draft: false
 tags:
   - cats
   - pet
