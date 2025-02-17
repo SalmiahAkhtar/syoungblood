@@ -5,27 +5,6 @@
     <link>/tags/</link>
     <description>Recent content in Tags on S Youngblood</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 09 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cats</title>
-      <link>/tags/cats/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cats/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Pet</title>
-      <link>/tags/pet/</link>
-      <pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pet/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
